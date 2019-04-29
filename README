@@ -1,0 +1,17 @@
+1) install python3
+2) install virtualenv:
+
+pip install virtualenv
+
+3) create virtual env:
+python3 -m virtualenv venv
+
+4) activate venv:
+source /venv/bin/activate
+
+5) install requirements:
+pip install -r requirements
+
+6) run python file:
+python classifier.py
+
